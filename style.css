@@ -1,0 +1,44 @@
+
+.del-btn{
+    background-color: crimson;
+    border: none;
+    padding: 7px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    color: rgb(249, 41, 41);
+}
+
+.del-btn:hover{
+color:rgb(238, 179, 179)
+}
+
+.input-text{
+    border-radius: 5px;
+    width:50%;
+    font-size: 18px;
+    padding:12px;
+    border: none;
+    background-color:rgb(40, 37, 37);
+    color:black;
+}
+
+.form-data{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction:column;
+    gap:1rem;
+    margin:17px;
+    border:1px solid black;
+    padding:15px;
+}
+
+.btn{
+    border:none;
+    padding:7px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    color: rgb(198, 52, 52);
+}
